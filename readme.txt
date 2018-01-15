@@ -1,3 +1,5 @@
 Lue mut, oon tärkee
 
-mutta tämän halusin lisätä
+
+
+All rights reserverved.
