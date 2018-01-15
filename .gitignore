@@ -1,4 +1,4 @@
 eiseurata.txt
 test/*.txt
-!text/master.txt
+!test/master.txt
 tmp
