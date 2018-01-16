@@ -2,4 +2,5 @@ Lue mut, oon tärkee
 
 
 
-All rights reserverved.
+All rights reserverved. May 2018
+
