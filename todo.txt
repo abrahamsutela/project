@@ -2,3 +2,4 @@ TODO
 
 1. learn to make commits
 2. learn to ignore files
+3. learn about branches
